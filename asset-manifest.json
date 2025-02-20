@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bb2e574.css",
+    "main.js": "/static/js/main.acbf7162.js",
+    "static/media/happy_birthday_piano.mp3": "/static/media/happy_birthday_piano.1e6b1ffb7c6953f4548d.mp3",
+    "static/media/Cute Pink Heart Normal Select.cur": "/static/media/Cute Pink Heart Normal Select.504326eaa27098ef31ef.cur",
+    "static/media/Love hand Normal Select (1).cur": "/static/media/Love hand Normal Select (1).a88e4919a7654c5c2fb9.cur",
+    "index.html": "/index.html",
+    "main.2bb2e574.css.map": "/static/css/main.2bb2e574.css.map",
+    "main.acbf7162.js.map": "/static/js/main.acbf7162.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb2e574.css",
+    "static/js/main.acbf7162.js"
+  ]
+}
